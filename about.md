@@ -6,9 +6,7 @@ permalink: /about/
 
 I'm studying Electronics Engineering at Universidad Simón Bolívar in Caracas, Venezuela. I made this blog to share what I'm learning while studying for the Cisco CCNA Security certification and to share stuff about the many hobbies I have.
 
-### 
-
-I have been interested in:
+### My interests:
 
 * Machine Learning: I completed Andrew Ng's Machine Learning course in 2015 while waiting to start university. This is a very basic course but it taught me the basics of ML algorithms and programming in Matlab.
 
