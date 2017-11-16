@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title: My Arch Linux setup
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm going to explain how I installed Arch Linux in one of the partitions of my laptop, in dual boot with a Windows partition (that I honestly don't use anymore).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Things you'll need:
+⋅⋅* An usb that you can format. Any you have should work. I used the Anarchy Linux* installer, that weighs around 500MB.
+⋅⋅* An Internet connection of any speed. 
+⋅⋅* At least curiosity towards an OS where you can costumize everything. 
+
+
+
+*Formely called Arch Anywhere.
+
