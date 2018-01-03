@@ -1,7 +1,8 @@
 ---
-published: false
 layout: post
+title: Resource Master List
 ---
+
 For help using or installing any of these tools leave a comment or write me at gabriellabohorquez@gmail.com
 
 
