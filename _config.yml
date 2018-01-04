@@ -6,7 +6,7 @@
 name: Maria Bohórquez
 
 # Short bio or description (displayed in the header)
-description: Electronics Engineering Student and Network Hacker
+description: Programmer interested in Security, Linux Systems and more
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/10320441?s=400&u=939f1f7bc8e0bde9b3f53782e876bd390c51a477&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: https://github.com/mariabohorquez
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/mariagbohorquez/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: https://twitter.com/mgbohorquez
@@ -37,7 +37,7 @@ footer-links:
 disqus: mariabohorquez-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics:UA-111933129-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
