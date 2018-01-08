@@ -13,7 +13,7 @@ For help using or installing any of these tools leave a comment or write me at g
 
 -[Markdown Guide for Posts](http://www.jekyllnow.com/Markdown-Style-Guide/)
 
--[Git Bash Autocompletion](https://gist.github.com/ivanoats/1823034)
+-[Git Bash Autocompletion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
 ## Pentester Tools
 
