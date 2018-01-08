@@ -4,7 +4,7 @@ title: Resource Master List
 published: true
 ---
 
-For help using or installing any of these tools leave a comment or write me at gabriellabohorquez@gmail.com
+For help using or installing any of these tools leave a comment or write me at mariabohorquez.devops@gmail.com
 
 
 ## Git Basics
