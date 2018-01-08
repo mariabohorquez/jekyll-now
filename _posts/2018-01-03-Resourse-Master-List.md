@@ -27,3 +27,8 @@ For help using or installing any of these tools leave a comment or write me at g
 - [Arch Linux based installer, Official Distro is called Anarchy Linux.](https://arch-anywhere.org/download/)
 
 - [Black Arch](https://blackarch.org/downloads.html): can be an OS on it's own, but I use it as a package database, so I can use pacman to download pentester tools as needed.
+
+## To mantain this page I use
+
+- [Prose](prose.io) to write posts for this blog.
+- This [repository](https://github.com/barryclark/jekyll-now) as a template for the blog.
