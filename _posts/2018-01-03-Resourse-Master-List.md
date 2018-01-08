@@ -32,4 +32,5 @@ For help using or installing any of these tools leave a comment or write me at g
 ## To mantain this page I use
 
 - [Prose](prose.io) to write posts for this blog.
+
 - This [repository](https://github.com/barryclark/jekyll-now) as a template for the blog.
