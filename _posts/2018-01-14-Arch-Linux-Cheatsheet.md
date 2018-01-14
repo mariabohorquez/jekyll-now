@@ -4,22 +4,33 @@ title: Arch Linux Cheatsheet
 published: true
 ---
 
-## Maintaining your system
+## Useful commands
 
 1. Updating System
 
 ```bash
-  sudo pacman -Syu
+sudo pacman -Syu
 ```
     
-1. Cleaning pacman's cache (leaving 3 of the last versions of each package)
+1. Cleaning pacman's cache
 
 ```bash
-  sudo paccache -r
+\# leaving 3 of the last versions of each package
+sudo paccache -r
+\# lwaving only 1
+sudo paccache -rk 1
 ```
   
 1. Knowing how much space is being used by the cache
 
 ```bash
-  du -sh /var/cache/pacman/pkg/
+du -sh /var/cache/pacman/pkg/
 ```
+
+1. Example of using grep to print a section of a man page
+
+```bash
+man pacman | grep sync
+```
+
+
