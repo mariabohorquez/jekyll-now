@@ -4,7 +4,7 @@ title: Arch Linux Cheatsheet
 published: true
 ---
 
-## Useful commands
+### Useful commands
 
 - Updating System
 
