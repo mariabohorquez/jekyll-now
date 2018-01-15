@@ -33,4 +33,10 @@ du -sh /var/cache/pacman/pkg/
 man pacman | grep sync
 ```
 
+- Reporting a problem in the forum
+
+```bash
+journalctl --since=yesterday | grep "io-slave"
+```
+
 
