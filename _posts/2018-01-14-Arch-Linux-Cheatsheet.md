@@ -45,7 +45,7 @@ Create a mirrorlist with [Pacman Mirrorlist Generator](https://www.archlinux.org
 ```bash
 # Modify the file adding your genetared mirrorlist, uncommenting the servers
 sudo nano /etc/pacman.d/mirrorlist
-# Then refrest the package list
+# Then refresh the package list
 sudo pacman -Syyu
 ```
 
