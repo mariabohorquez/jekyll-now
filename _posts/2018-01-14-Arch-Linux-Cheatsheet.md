@@ -48,5 +48,10 @@ sudo nano /etc/pacman.d/mirrorlist
 # Then refresh the package list
 sudo pacman -Syyu
 ```
+- Check a package information
+
+```bash
+pacman -Qi virtualbox
+```
 
 
