@@ -54,4 +54,10 @@ sudo pacman -Syyu
 pacman -Qi virtualbox
 ```
 
+- Using my scanner
+
+```bash
+scanimage --device "hpaio:/usb/Deskjet_F4400_series?serial=CN027C146Z05C5" --format=tiff > test.tiff
+```
+
 
