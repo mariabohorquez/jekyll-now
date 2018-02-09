@@ -14,4 +14,5 @@ title: Courses to To Do
 - [OpenCV with Python](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html)
 - [Robotics Perception](https://www.coursera.org/learn/robotics-perception)
 - [Amazon Web Services Training](https://www.aws.training/)
+- [Personal Finance for Engineers from Stanford](https://cs007.blog/)
 
