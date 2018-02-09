@@ -15,7 +15,7 @@ For help using or installing any of these tools leave a comment or write me at m
 
 - [Git Bash Autocompletion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
 
-- [Markdown Emoji List](https://gist.github.com/rxaviers/7360908) :heart:
+- [Markdown Emoji List](https://gist.github.com/rxaviers/7360908)
 
 ## Pentester Tools
 
