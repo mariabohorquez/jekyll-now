@@ -9,9 +9,12 @@ Since some dependencies don't work out of the box for Robocomp's framework, I'm 
 
 - The [ROS Index](http://rosindex.github.io/d/qt4-dev-tools/) has an awesome list of dependencies available by system. It's beautiful. 
 
+
 ## The dependencies are:
 
+
 * pacman --> Easily installed by `sudo pacman -S git`
+
 
 Name              | Repository | Name in Repository        |  Tested?
 :---: | :---: | :---: | :---:
