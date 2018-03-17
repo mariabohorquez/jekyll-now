@@ -13,7 +13,7 @@ Since some dependencies don't work out of the box for Robocomp's framework, I'm 
 
 * pacman --> Easily installed by `sudo pacman -S git`
 
-Name | Repository | Name in Repository | Tested?
+Name              | Repository | Name in Repository        |  Tested?
 :---: | :---: | :---: | :---:
 git | pacman | git | yes
 git-annex | pacman | git-annex | no
