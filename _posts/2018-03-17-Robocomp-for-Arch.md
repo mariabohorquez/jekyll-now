@@ -44,4 +44,4 @@ libboost-test-dev | pacman | boost | no
 libboost-filesystem-dev | pacman | boost-libs | no 
 libqt4-dev | yaourt | lib32-qt4 | no 
 libqt4-opengl-dev | pacman | qt4 | yes 
-^^^^^^^^^^^^^^^^^^^^^^^^ | ^^^^^^^^ | ^^^^^^^^^^^^^^^^^^^^^^^^ | ^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | ^^^^^^^^ | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ | ^^^
