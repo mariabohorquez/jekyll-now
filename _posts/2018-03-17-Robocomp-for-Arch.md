@@ -82,3 +82,8 @@ Commented line 36 in /home/gaby/robocomp/tools/rclogger/src/CMakeLists.txt.
 
 ### [IceUtil was merged with Ice](https://doc.zeroc.com/display/Ice37/Upgrading+your+Application+from+Ice+3.6#UpgradingyourApplicationfromIce3.6-IceUtilLibraryRemoved) on version 3.7. I can't find where in the makefiles IceUtil is referenced to fix it.
 
+But the dependency Robocomp works with is Ice 3.5. This is a little bad.
+
+After a lot of searching I found the old version [here](https://github.com/zeroc-ice/ice.git).
+
+### Project for Robocomp --> Actualizing Ice to version 3.7.
