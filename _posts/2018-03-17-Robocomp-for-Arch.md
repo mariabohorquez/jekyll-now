@@ -87,3 +87,9 @@ But the dependency Robocomp works with is Ice 3.5. This is a little bad.
 After a lot of searching I found the old version [here](https://github.com/zeroc-ice/ice.git).
 
 ### Project for Robocomp --> Actualizing Ice to version 3.7.
+
+### Update - April 2018
+
+Debian doesn't have Ice 3.7 in their package database. A local branch of Robocomp must be done to make it work with Ice 3.7, then Robocomp can be installed following a different tutorial with Arch and Fedora.
+
+Another option would be updating the package in apt. Need to look into how to do that.
