@@ -60,4 +60,9 @@ pacman -Qi virtualbox
 scanimage --device "hpaio:/usb/Deskjet_F4400_series?serial=CN027C146Z05C5" --format=tiff > test.tiff
 ```
 
+- Listing Orphaned Packages and Removing them
+
+```bash
+pacman -Qtdq```
+pacman -Rns $(pacman -Qtdq)
 
