@@ -6,6 +6,10 @@ published: true
 
 ### My Proposal for GSoC for Rocomp has been accepted! 
 
+<p align="center">
+  <img width="350" height="350" src="/images/vertical-GSoC-logo.jpg">
+</p>
+
   I proposed two projects towards their organization on the basis that I really like the framework and their social robots. I want to help them grow, reach more users and be more beginner-friendly. 
   
   As of today I'll start working on the project "Generation of new use cases, tutorials and reference information for RoboComp".
