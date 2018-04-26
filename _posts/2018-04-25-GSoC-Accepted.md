@@ -22,6 +22,8 @@ published: true
   3. Create a Contribute.md page and a pull request template to make it easier to contribute in an orderly way.
   4. Write a new About Page. This needs to be done with a lot of time to review it until ot conveys the "Why --> How --> What" of Robocomp perfectly.
   
-  I should also use this time to look for the best tutorials to do first.
+  I should also use this time to look for the best tutorials to do first so my work on the second month is more planned. This will be done by contacting members of Robocomp and asking about projects they have done.
+  
+  **Note:** Migrating Robocomp to Ice 3.7 could be beneficial. I need to speak about it with my mentor and Pablo Bustos to see how practical would it really be.
       
 
