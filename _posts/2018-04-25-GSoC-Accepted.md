@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Accepted to GSoC `` : `` First Days
+title: Getting Accepted to GSoC --> First Days
 published: true
 ---
 
