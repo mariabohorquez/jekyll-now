@@ -4,7 +4,7 @@ title: Getting Accepted to GSoC --> First Days
 published: true
 ---
 
-### I have been accepted in Google Summer of Code by Robocomp
+### My Proposal for GSoC for Rocomp has been accepted! 
 
   I proposed two projects towards their organization on the basis that I really like the framework and their social robots. I want to help them grow, reach more users and be more beginner-friendly. 
   
