@@ -21,5 +21,7 @@ published: true
   2. Improve the github page. Look for errors and start moving and rewriting stuff.
   3. Create a Contribute.md page and a pull request template to make it easier to contribute in an orderly way.
   4. Write a new About Page. This needs to be done with a lot of time to review it until ot conveys the "Why --> How --> What" of Robocomp perfectly.
+  
+  I should also use this time to look for the best tutorials to do first.
       
 
